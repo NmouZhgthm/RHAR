@@ -18,7 +18,7 @@ RHAR 是一个基于Java的命令行工具。
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/你的用户名/RHAR.git
+   git clone https://github.com/NmouZhgthm/RHAR.git
    ```
 
 2. 编译项目：
